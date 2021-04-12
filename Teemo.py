@@ -83,6 +83,8 @@ async def on_message(message):
             try:
                 #remove this try statement when all champ emojis are available
                 await msg.add_reaction(LocalChampions["champions"][ChampList[number]]["emoji"])
+            except discord.errors.Forbidden:
+                print('forbidden '+ChampList[number])
             except:
                 pass
 
@@ -95,4 +97,4 @@ async def on_message(message):
         await message.channel.send(embed=embed_var)
 
 
-client.run('TOKEN HERE')
+client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.CDNqiP9o1SL3ZjoHXadrThcwurU')
