@@ -97,4 +97,4 @@ async def on_message(message):
         await message.channel.send(embed=embed_var)
 
 
-client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.CDNqiP9o1SL3ZjoHXadrThcwurU')
+client.run('TOKEN HERE')
