@@ -1,0 +1,1710 @@
+{
+  "champions": {
+    "Aatrox": {
+      "name": "Aatrox",
+      "description": "the Darkin Blade",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:aatrox:823895268286005268>"
+    },
+    "Ahri": {
+      "name": "Ahri",
+      "description": "the Nine-Tailed Fox",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!",
+        "extra build"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ahri:823895573131952199>"
+    },
+    "Akali": {
+      "name": "Akali",
+      "description": "the Rogue Assassin",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:akali:823897613912506432>"
+    },
+    "Alistar": {
+      "name": "Alistar",
+      "description": "the Minotaur",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:alistar:823897773773553695>"
+    },
+    "Amumu": {
+      "name": "Amumu",
+      "description": "the Sad Mummy",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:amumu:823897891729834004>"
+    },
+    "Anivia": {
+      "name": "Anivia",
+      "description": "the Cryophoenix",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:anivia:823897995933515838>"
+    },
+    "Annie": {
+      "name": "Annie",
+      "description": "the Dark Child",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:annie:823898146568142858>"
+    },
+    "Aphelios": {
+      "name": "Aphelios",
+      "description": "the Weapon of the Faithful",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:aphelios:823898258610061333>"
+    },
+    "Ashe": {
+      "name": "Ashe",
+      "description": "the Frost Archer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ashe:823898384309551110>"
+    },
+    "AurelionSol": {
+      "name": "Aurelion Sol",
+      "description": "the Star Forger",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:aurelionsol:823898502148915210>"
+    },
+    "Azir": {
+      "name": "Azir",
+      "description": "the Emperor of the Sands",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:azir:823898622998872074>"
+    },
+    "Bard": {
+      "name": "Bard",
+      "description": "the Wandering Caretaker",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:bard:000000000000000000>"
+    },
+    "Blitzcrank": {
+      "name": "Blitzcrank",
+      "description": "the Great Steam Golem",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:blitzcrank:000000000000000000>"
+    },
+    "Brand": {
+      "name": "Brand",
+      "description": "the Burning Vengeance",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:brand:000000000000000000>"
+    },
+    "Braum": {
+      "name": "Braum",
+      "description": "the Heart of the Freljord",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:braum:000000000000000000>"
+    },
+    "Caitlyn": {
+      "name": "Caitlyn",
+      "description": "the Sheriff of Piltover",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:caitlyn:000000000000000000>"
+    },
+    "Camille": {
+      "name": "Camille",
+      "description": "the Steel Shadow",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:camille:000000000000000000>"
+    },
+    "Cassiopeia": {
+      "name": "Cassiopeia",
+      "description": "the Serpent's Embrace",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:cassiopeia:000000000000000000>"
+    },
+    "Chogath": {
+      "name": "Cho'Gath",
+      "description": "the Terror of the Void",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:chogath:000000000000000000>"
+    },
+    "Corki": {
+      "name": "Corki",
+      "description": "the Daring Bombardier",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:corki:000000000000000000>"
+    },
+    "Darius": {
+      "name": "Darius",
+      "description": "the Hand of Noxus",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:darius:000000000000000000>"
+    },
+    "Diana": {
+      "name": "Diana",
+      "description": "Scorn of the Moon",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:diana:000000000000000000>"
+    },
+    "Draven": {
+      "name": "Draven",
+      "description": "the Glorious Executioner",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:draven:000000000000000000>"
+    },
+    "DrMundo": {
+      "name": "Dr.Mundo",
+      "description": "the Madman of Zaun",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:drmundo:000000000000000000>"
+    },
+    "Ekko": {
+      "name": "Ekko",
+      "description": "the Boy Who Shattered Time",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ekko:000000000000000000>"
+    },
+    "Elise": {
+      "name": "Elise",
+      "description": "the Spider Queen",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:elise:000000000000000000>"
+    },
+    "Evelynn": {
+      "name": "Evelynn",
+      "description": "Agony's Embrace",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:evelynn:000000000000000000>"
+    },
+    "Ezreal": {
+      "name": "Ezreal",
+      "description": "the Prodigal Explorer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ezreal:000000000000000000>"
+    },
+    "Fiddlesticks": {
+      "name": "Fiddlesticks",
+      "description": "the Ancient Fear",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:fiddlesticks:000000000000000000>"
+    },
+    "Fiora": {
+      "name": "Fiora",
+      "description": "the Grand Duelist",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:fiora:000000000000000000>"
+    },
+    "Fizz": {
+      "name": "Fizz",
+      "description": "the Tidal Trickster",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:fizz:000000000000000000>"
+    },
+    "Galio": {
+      "name": "Galio",
+      "description": "the Colossus",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:galio:000000000000000000>"
+    },
+    "Gangplank": {
+      "name": "Gangplank",
+      "description": "the Saltwater Scourge",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:gankplank:000000000000000000>"
+    },
+    "Garen": {
+      "name": "Garen",
+      "description": "the Might of Demacia",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:garen:000000000000000000>"
+    },
+    "Gwen": {
+      "name": "Gwen",
+      "description": "the Hallowed Seamstress",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:gwen:000000000000000000>"
+    },
+    "Gnar": {
+      "name": "Gnar",
+      "description": "the Missing Link",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:gnar:000000000000000000>"
+    },
+    "Gragas": {
+      "name": "Gragas",
+      "description": "the Rabble Rouser",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:gragas:000000000000000000>"
+    },
+    "Graves": {
+      "name": "Graves",
+      "description": "the Outlaw",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:graves:000000000000000000>"
+    },
+    "Hecarim": {
+      "name": "Hecarim",
+      "description": "the Shadow of War",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:hecarim:000000000000000000>"
+    },
+    "Heimerdinger": {
+      "name": "Heimerdinger",
+      "description": "the Revered Inventor",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:heimerdinger:000000000000000000>"
+    },
+    "Illaoi": {
+      "name": "Illaoi",
+      "description": "the Kraken Priestess",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:illaoi:000000000000000000>"
+    },
+    "Irelia": {
+      "name": "Irelia",
+      "description": "the Blade Dancer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:irelia:000000000000000000>"
+    },
+    "Ivern": {
+      "name": "Ivern",
+      "description": "the Green Father",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ivern:000000000000000000>"
+    },
+    "Janna": {
+      "name": "Janna",
+      "description": "the Storm's Fury",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:janna:000000000000000000>"
+    },
+    "JarvanIV": {
+      "name": "Jarvan IV",
+      "description": "the Exemplar of Demacia",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:jarvaniv:000000000000000000>"
+    },
+    "Jax": {
+      "name": "Jax",
+      "description": "the Grandmaster at Arms",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:jax:000000000000000000>"
+    },
+    "Jayce": {
+      "name": "Jayce",
+      "description": "the Defender of Tommorow",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:jayce:000000000000000000>"
+    },
+    "Jhin": {
+      "name": "Jhin",
+      "description": "the Virtuoso",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:jhin:000000000000000000>"
+    },
+    "Jinx": {
+      "name": "Jinx",
+      "description": "the Loose Cannon",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:jinx:000000000000000000>"
+    },
+    "Kaisa": {
+      "name": "Kai'Sa",
+      "description": "Daughter of the Void",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kaisa:000000000000000000>"
+    },
+    "Kalista": {
+      "name": "Kalista",
+      "description": "the Spear of Vengeance",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kalista:000000000000000000>"
+    },
+    "Karma": {
+      "name": "Karma",
+      "description": "the Enlightened One",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:karma:000000000000000000>"
+    },
+    "Karthus": {
+      "name": "Karthus",
+      "description": "the Deathsinger",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:karthus:000000000000000000>"
+    },
+    "Kassadin": {
+      "name": "Kassadin",
+      "description": "the Void Walker",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:Kassadin:000000000000000000>"
+    },
+    "Katarina": {
+      "name": "Katarina",
+      "description": "the Sinister Blade",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:katarina:000000000000000000>"
+    },
+    "Kayle": {
+      "name": "Kayle",
+      "description": "the Righteous",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kayle:000000000000000000>"
+    },
+    "Kayn": {
+      "name": "Kayn",
+      "description": "the Shadow Reaper",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kayn:000000000000000000>"
+    },
+    "Kennen": {
+      "name": "Kennen",
+      "description": "the Heart of the Tempest",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kennen:000000000000000000>"
+    },
+    "Khazix": {
+      "name": "Kha'Zix",
+      "description": "the Voidreaver",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:khazix:000000000000000000>"
+    },
+    "Kindred": {
+      "name": "Kindred",
+      "description": "the Eternal Hunters",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kindred:000000000000000000>"
+    },
+    "Kled": {
+      "name": "Kled",
+      "description": "the Cantankerous Cavalier",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kled:000000000000000000>"
+    },
+    "KogMaw": {
+      "name": "Kog'Maw",
+      "description": "the Mouth of the Abyss",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:kogmaw:000000000000000000>"
+    },
+    "Leblanc": {
+      "name": "LeBlanc",
+      "description": "the Deciever",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:leblanc:000000000000000000>"
+    },
+    "LeeSin": {
+      "name": "Lee Sin",
+      "description": "the Blind Monk",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:leesin:000000000000000000>"
+    },
+    "Leona": {
+      "name": "Leona",
+      "description": "the Radiant Dawn",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:leona:000000000000000000>"
+    },
+    "Lillia": {
+      "name": "Lillia",
+      "description": "the Bashful Bloom",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:lillia:000000000000000000>"
+    },
+    "Lissandra": {
+      "name": "Lissandra",
+      "description": "the Ice Witch",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:lissandra:000000000000000000>"
+    },
+    "Lucian": {
+      "name": "Lucian",
+      "description": "the Purifier",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:lucian:000000000000000000>"
+    },
+    "Lulu": {
+      "name": "Lulu",
+      "description": "the Fae Sorceress",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:lulu:000000000000000000>"
+    },
+    "Lux": {
+      "name": "Lux",
+      "description": "the Lady if Luminosity",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:lux:000000000000000000>"
+    },
+    "Malphite": {
+      "name": "Malphite",
+      "description": "the Shard of the Monolith",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:malphite:000000000000000000>"
+    },
+    "Malzahar": {
+      "name": "Malzahar",
+      "description": "the Prophet of the Void",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:malzahar:000000000000000000>"
+    },
+    "Maokai": {
+      "name": "Maokai",
+      "description": "the Twisted Treant",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:maokai:000000000000000000>"
+    },
+    "MasterYi": {
+      "name": "Master Yi",
+      "description": "the Wuju Bladesman",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:masteryi:000000000000000000>"
+    },
+    "MissFortune": {
+      "name": "Miss Fortune",
+      "description": "the Bounty Hunter",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:missfortune:000000000000000000>"
+    },
+    "Mordekaiser": {
+      "name": "Mordekaiser",
+      "description": "the Iron Revenant",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:mordekaiser:000000000000000000>"
+    },
+    "Morgana": {
+      "name": "Morgana",
+      "description": "the Fallen",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:morgana:000000000000000000>"
+    },
+    "Nami": {
+      "name": "Nami",
+      "description": "the Tidecaller",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nami:000000000000000000>"
+    },
+    "Nasus": {
+      "name": "Nasus",
+      "description": "the Curator of the Sands",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nasus:000000000000000000>"
+    },
+    "Nautilus": {
+      "name": "Nautilus",
+      "description": "the Titan of the Depths",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nautilus:000000000000000000>"
+    },
+    "Neeko": {
+      "name": "Neeko",
+      "description": "the Curious Chameleon",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:neeko:000000000000000000>"
+    },
+    "Nidalee": {
+      "name": "Nidalee",
+      "description": "the Bestial Huntress",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nidalee:000000000000000000>"
+    },
+    "Nocturne": {
+      "name": "Nocturne",
+      "description": "the Eternal Nightmare",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nocturne:000000000000000000>"
+    },
+    "Nunu": {
+      "name": "Nunu & Willump",
+      "description": "the Boy and His Yeti",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:nunu:000000000000000000>"
+    },
+    "Olaf": {
+      "name": "Olaf",
+      "description": "the Berserker",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:olaf:000000000000000000>"
+    },
+    "Orianna": {
+      "name": "Orianna",
+      "description": "the Lady of Clockwork",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:orianna:000000000000000000>"
+    },
+    "Ornn": {
+      "name": "Ornn",
+      "description": "the Fire below the Mountain",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ornn:000000000000000000>"
+    },
+    "Pantheon": {
+      "name": "Pantheon",
+      "description": "the Unbreakable Spear",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:pantheon:000000000000000000>"
+    },
+    "Poppy": {
+      "name": "Poppy",
+      "description": "Keeper of the Hammer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:poppy:000000000000000000>"
+    },
+    "Pyke": {
+      "name": "Pyke",
+      "description": "the Bloodharbor Ripper",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:pyke:000000000000000000>"
+    },
+    "Qiyana": {
+      "name": "Qiyana",
+      "description": "Empress of the Elements",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:qiyana:000000000000000000>"
+    },
+    "Quinn": {
+      "name": "Quinn",
+      "description": "Demacia's Wings",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:quinn:000000000000000000>"
+    },
+    "Rakan": {
+      "name": "Rakan",
+      "description": "the Charmer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:rakan:000000000000000000>"
+    },
+    "Rammus": {
+      "name": "Rammus",
+      "description": "the Armadillo",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:rammus:000000000000000000>"
+    },
+    "RekSai": {
+      "name": "Rek'Sai",
+      "description": "the Void Burrower",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:reksai:000000000000000000>"
+    },
+    "Rell": {
+      "name": "Rell",
+      "description": "the Iron Maiden",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:rell:000000000000000000>"
+    },
+    "Renekton": {
+      "name": "Renekton",
+      "description": "the Butcher of the Sands",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:renekton:000000000000000000>"
+    },
+    "Rengar": {
+      "name": "Rengar",
+      "description": "the Pridestalker",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:rengar:000000000000000000>"
+    },
+    "Riven": {
+      "name": "Riven",
+      "description": "the Exile",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:riven:000000000000000000>"
+    },
+    "Rumble": {
+      "name": "Rumble",
+      "description": "the Mechanized Menace",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:rumble:000000000000000000>"
+    },
+    "Ryze": {
+      "name": "Ryze",
+      "description": "the Rune Mage",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ryze:000000000000000000>"
+    },
+    "Samira": {
+      "name": "Samira",
+      "description": "the Desert Rose",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:samira:000000000000000000>"
+    },
+    "Sejuani": {
+      "name": "Sejuani",
+      "description": "Fury of the North",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sejuani:000000000000000000>"
+    },
+    "Senna": {
+      "name": "Senna",
+      "description": "the Redeemer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:senna:000000000000000000>"
+    },
+    "Seraphine": {
+      "name": "Seraphine",
+      "description": "the Starry-Eyed Songstress",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:seraphine:000000000000000000>"
+    },
+    "Sett": {
+      "name": "Sett",
+      "description": "the Boss",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sett:000000000000000000>"
+    },
+    "Shaco": {
+      "name": "Shaco",
+      "description": "the Demon Jester",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:shaco:000000000000000000>"
+    },
+    "Shen": {
+      "name": "Shen",
+      "description": "the Eye of Twilight",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:shen:000000000000000000>"
+    },
+    "Shyvana": {
+      "name": "Shyvana",
+      "description": "the Half-Dragon",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:shyvana:000000000000000000>"
+    },
+    "Singed": {
+      "name": "Singed",
+      "description": "the Mad Chemist",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:singed:000000000000000000>"
+    },
+    "Sion": {
+      "name": "Sion",
+      "description": "the Undead Juggernaut",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sion:000000000000000000>"
+    },
+    "Sivir": {
+      "name": "Sivir",
+      "description": "the Battle Mistress",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sivir:000000000000000000>"
+    },
+    "Skarner": {
+      "name": "Skarner",
+      "description": "the Crystal Vanguard",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:skarner:000000000000000000>"
+    },
+    "Sona": {
+      "name": "Sona",
+      "description": "Maven of the Strings",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sona:000000000000000000>"
+    },
+    "Soraka": {
+      "name": "Soraka",
+      "description": "the Starchild",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:soraka:000000000000000000>"
+    },
+    "Swain": {
+      "name": "Swain",
+      "description": "the Noxian Grand General",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:swain:000000000000000000>"
+    },
+    "Sylas": {
+      "name": "Sylas",
+      "description": "the Unshackled",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:sylas:000000000000000000>"
+    },
+    "Syndra": {
+      "name": "Syndra",
+      "description": "the Dark Sovereign",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:syndra:000000000000000000>"
+    },
+    "TahmKench": {
+      "name": "Tahm Kench",
+      "description": "the River King",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:tahmkench:000000000000000000>"
+    },
+    "Taliyah": {
+      "name": "Taliyah",
+      "description": "the Stoneweaver",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:taliyah:000000000000000000>"
+    },
+    "Talon": {
+      "name": "Talon",
+      "description": "the Blade's Shadow",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:talon:000000000000000000>"
+    },
+    "Taric": {
+      "name": "Taric",
+      "description": "the Shield of Valoran",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:taric:000000000000000000>"
+    },
+    "Teemo": {
+      "name": "Teemo",
+      "description": "the Swift Scout",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:teemo:000000000000000000>"
+    },
+    "Thresh": {
+      "name": "Thresh",
+      "description": "the Chain Warden",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:thresh:000000000000000000>"
+    },
+    "Tristana": {
+      "name": "Tristana",
+      "description": "the Yordle Gunner",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:tristana:000000000000000000>"
+    },
+    "Trundle": {
+      "name": "Trundle",
+      "description": "the Troll King",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:trundle:000000000000000000>"
+    },
+    "Tryndamere": {
+      "name": "Tryndamere",
+      "description": "the Barbarian King",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:tryndamere:000000000000000000>"
+    },
+    "TwistedFate": {
+      "name": "Twisted Fate",
+      "description": "the Card Master",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:twistedfate:000000000000000000>"
+    },
+    "Twitch": {
+      "name": "Twitch",
+      "description": "the Plague Rat",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:twitch:000000000000000000>"
+    },
+    "Udyr": {
+      "name": "Udyr",
+      "description": "the Spirit Walker",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:udyr:000000000000000000>"
+    },
+    "Urgot": {
+      "name": "Urgot",
+      "description": "the Dreadnought",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:urgot:000000000000000000>"
+    },
+    "Varus": {
+      "name": "Varus",
+      "description": "the Arrow of Retribution",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:varus:000000000000000000>"
+    },
+    "Vayne": {
+      "name": "Vayne",
+      "description": "the Night Hunter",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:vayne:000000000000000000>"
+    },
+    "Veigar": {
+      "name": "Veigar",
+      "description": "the Tiny Master of Evil",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:veigar:000000000000000000>"
+    },
+    "Velkoz": {
+      "name": "Vel'Koz",
+      "description": "the Eye of the Void",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:velkoz:000000000000000000>"
+    },
+    "Vi": {
+      "name": "Vi",
+      "description": "the Piltover Enforcer",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:vi:000000000000000000>"
+    },
+    "Viego": {
+      "name": "Viego",
+      "description": "the Ruined King",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:viego:000000000000000000>"
+    },
+    "Viktor": {
+      "name": "Viktor",
+      "description": "the Machine Herald",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:viktor:000000000000000000>"
+    },
+    "Vladimir": {
+      "name": "Vladimir",
+      "description": "the Crimson Reaper",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:vladimir:000000000000000000>"
+    },
+    "Volibear": {
+      "name": "Volibear",
+      "description": "the Relentless Storm",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:volibear:000000000000000000>"
+    },
+    "Warwick": {
+      "name": "Warwick",
+      "description": "the Uncaged Wrath of Zaun",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:warwick:000000000000000000>"
+    },
+    "MonkeyKing": {
+      "name": "Wukong",
+      "description": "the Monkey King",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:wukong:000000000000000000>"
+    },
+    "Xayah": {
+      "name": "Xayah",
+      "description": "the Rebel",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:xayah:000000000000000000>"
+    },
+    "Xerath": {
+      "name": "Xerath",
+      "description": "the Magus Ascendant",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:xerath:000000000000000000>"
+    },
+    "XinZhao": {
+      "name": "Xin Zhao",
+      "description": "the Seneschal of Demacia",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:xinzhao:000000000000000000>"
+    },
+    "Yasuo": {
+      "name": "Yasuo",
+      "description": "the Unforgiven",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:yasuo:000000000000000000>"
+    },
+    "Yone": {
+      "name": "Yone",
+      "description": "the Unforgotten",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:yone:000000000000000000>"
+    },
+    "Yorick": {
+      "name": "Yorick",
+      "description": "the Shepherd of Souls",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:yorick:000000000000000000>"
+    },
+    "Yuumi": {
+      "name": "Yuumi",
+      "description": "the Magical Cat",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:yuumi:000000000000000000>"
+    },
+    "Zac": {
+      "name": "Zac",
+      "description": "the Secret Weapon",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:zac:000000000000000000>"
+    },
+    "Zed": {
+      "name": "Zed",
+      "description": "the Master of Shadows",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:zed:000000000000000000>"
+    },
+    "Ziggs": {
+      "name": "Ziggs",
+      "description": "the Hexplosives Expert",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:ziggs:000000000000000000>"
+    },
+    "Zilean": {
+      "name": "Zilean",
+      "description": "the Chronokeeper",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:zilean:000000000000000000>"
+    },
+    "Zoe": {
+      "name": "Zoe",
+      "description": "the Aspect of Twilight",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:zoe:000000000000000000>"
+    },
+    "Zyra": {
+      "name": "Zyra",
+      "description": "the Rise of the Thorns",
+      "builds": [
+        "This Champion Doesn't Have any Builds yet!"
+      ],
+      "runes": [
+        "This Champion Doesn't Have any Runes yet!"
+      ],
+      "emoji": "<:zyra:000000000000000000>"
+    }
+  }
+}

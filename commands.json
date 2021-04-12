@@ -1,0 +1,6 @@
+{
+  "commands": [
+    "|(champion name) : Tells you about a specific champion eg - |aurelionsol",
+    "|champions : Gives you the list of all League Champions"
+  ]
+}
