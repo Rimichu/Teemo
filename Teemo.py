@@ -67,6 +67,61 @@ async def on_message(message):
         champ = ChampList[champ]
         await message.channel.send(embed=champion_data(Champions["data"][champ], champ))
 
+    async def champ_embed():
+        embed_var = discord.Embed(title="Champions")
+        champn = [number for number in range(len(ChampList))]
+        alpha_counter = 0
+        to_print = ""
+        for number in champn:
+            if (number%18 == 0 or number == len(ChampList)-1) and number != 0:
+                msg = await message.channel.send(embed=embed_var)
+                await champ_react(msg,number)
+                embed_var = discord.Embed(title="Champions")
+            if ChampList[number][0] != Letters[alpha_counter]:
+                embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+                to_print = ""
+                alpha_counter += 1
+            to_print += LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
+        embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+        msg = await message.channel.send(embed=embed_var)
+        await champ_react(msg, len(ChampList)-1)
+
+    async def champ_react(msg,number):
+        await msg.add_reaction('⏪')
+        await msg.add_reaction('⏩')
+        for number in range(number-18,number):
+            try:
+                await msg.add_reaction(LocalChampions["champions"][ChampList[number]]["emoji"])
+            except discord.errors.Forbidden:
+                print('forbidden ' + ChampList[number])
+            except:
+                break
+
+    if message_content == 'champions' or message_content == 'c':
+        await champ_embed()
+    '''
+    if message_content == 'champions' or message_content == 'c':
+        embed_var = discord.Embed(title="Champions")
+        to_print = ""
+        alpha_counter = 0
+        for number in range(19):
+            if ChampList[number][0] != Letters[alpha_counter]:
+                embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+                to_print = ""
+                alpha_counter += 1
+            to_print += LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
+        embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+        msg = await message.channel.send(embed=embed_var)
+        for number in range(19):
+            try:
+                # remove this try statement when all champ emojis are available
+                await msg.add_reaction(LocalChampions["champions"][ChampList[number]]["emoji"])
+            except discord.errors.Forbidden:
+                print('forbidden ' + ChampList[number])
+            except:
+                pass
+        await msg.add_reaction('⏩')
+        
     if message_content == 'champions' or message_content == 'c':
         embed_var = discord.Embed(title='Champions')
         champn = [number for number in range(len(ChampList))]
@@ -88,7 +143,7 @@ async def on_message(message):
                 print('forbidden ' + ChampList[number])
             except:
                 pass
-
+    '''
     if message_content == 'help' or message_content == 'h':
         embed_var = discord.Embed(title='Help')
         to_print = ""
@@ -99,4 +154,4 @@ async def on_message(message):
 
 
 if __name__ == '__main__':
-    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.v0vt-oWb78ZpjZJa2G3ULQxkm4o')
+    client.run('TOKEN HERE')
