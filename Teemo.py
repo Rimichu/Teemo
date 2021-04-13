@@ -4,7 +4,7 @@ import discord
 
 import json
 
-with open('Champions.json','r',encoding="cp866") as LocalChampions:
+with open('Champions.json', 'r', encoding="cp866") as LocalChampions:
     LocalChampions = json.load(LocalChampions)
 with open('champion.json', 'r', encoding="cp866") as Champions:
     Champions = json.load(Champions)
@@ -15,22 +15,23 @@ LowerChampList = []
 for Champion in Champions["data"]:
     ChampList.append(Champion)
     LowerChampList.append(Champion.lower())
-Letters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+Letters = Commands["letters"]
 
-def champion_data(champ_data,champ):
+
+def champion_data(champ_data, champ):
     name = champ_data["name"]
     title = champ_data["title"]
     builds = LocalChampions["champions"][champ]["builds"]
     runes = LocalChampions["champions"][champ]["runes"]
     embed_var = discord.Embed(title=name + " - " + title)
-    toPrint = ""
+    to_print = ""
     for build in builds:
-        toPrint += build + "\n"
-    embed_var.add_field(name="Builds", value=toPrint)
-    toPrint = ""
+        to_print += build + "\n"
+    embed_var.add_field(name="Builds", value=to_print)
+    to_print = ""
     for rune in runes:
-        toPrint += rune + "\n"
-    embed_var.add_field(name="Runes", value=toPrint)
+        to_print += rune + "\n"
+    embed_var.add_field(name="Runes", value=to_print)
     return embed_var
 
 
@@ -64,37 +65,38 @@ async def on_message(message):
     if message_content in LowerChampList:
         champ = LowerChampList.index(message_content)
         champ = ChampList[champ]
-        await message.channel.send(embed=champion_data(Champions["data"][champ],champ))
+        await message.channel.send(embed=champion_data(Champions["data"][champ], champ))
 
     if message_content == 'champions' or message_content == 'c':
         embed_var = discord.Embed(title='Champions')
         champn = [number for number in range(len(ChampList))]
-        toPrint = ""
-        alphaCounter = 0
+        to_print = ""
+        alpha_counter = 0
         for number in champn:
-            if ChampList[number][0] != Letters[alphaCounter]:
-                embed_var.add_field(name=Letters[alphaCounter], value=toPrint)
-                toPrint = ""
-                alphaCounter += 1
-            string = LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] +"\n"
-            toPrint += string
+            if ChampList[number][0] != Letters[alpha_counter]:
+                embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+                to_print = ""
+                alpha_counter += 1
+            string = LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
+            to_print += string
         msg = await message.channel.send(embed=embed_var)
         for number in champn:
             try:
-                #remove this try statement when all champ emojis are available
+                # remove this try statement when all champ emojis are available
                 await msg.add_reaction(LocalChampions["champions"][ChampList[number]]["emoji"])
             except discord.errors.Forbidden:
-                print('forbidden '+ChampList[number])
+                print('forbidden ' + ChampList[number])
             except:
                 pass
 
     if message_content == 'help' or message_content == 'h':
         embed_var = discord.Embed(title='Help')
-        toPrint = ""
+        to_print = ""
         for command in Commands['commands']:
-            toPrint += command + '\n'
-        embed_var.add_field(name='Commands',value=toPrint)
+            to_print += command + '\n'
+        embed_var.add_field(name='Commands', value=to_print)
         await message.channel.send(embed=embed_var)
 
 
-client.run('TOKEN HERE')
+if __name__ == '__main__':
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.v0vt-oWb78ZpjZJa2G3ULQxkm4o')
