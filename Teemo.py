@@ -72,13 +72,18 @@ async def on_message(message):
         champn = [number for number in range(len(ChampList))]
         alpha_counter = 0
         to_print = ""
+        to_print_arr = []
         for number in champn:
             if (number%18 == 0 or number == len(ChampList)-1) and number != 0:
+                embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+                to_print = ""
                 msg = await message.channel.send(embed=embed_var)
                 await champ_react(msg,number)
                 embed_var = discord.Embed(title="Champions")
+                continue
             if ChampList[number][0] != Letters[alpha_counter]:
                 embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+                to_print_arr.append(to_print)
                 to_print = ""
                 alpha_counter += 1
             to_print += LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
@@ -154,4 +159,4 @@ async def on_message(message):
 
 
 if __name__ == '__main__':
-    client.run('TOKEN HERE')
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.f9i7ddp6vboZU6gu89QduSeDqrc')
