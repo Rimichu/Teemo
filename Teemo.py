@@ -74,7 +74,7 @@ async def on_message(message):
         to_print = ""
         to_print_arr = []
         for number in champn:
-            if (number%18 == 0 or number == len(ChampList)-1) and number != 0:
+            if (number%18 == 0 or number == len(ChampList)) and number != 0:
                 embed_var.add_field(name=Letters[alpha_counter], value=to_print)
                 to_print = ""
                 msg = await message.channel.send(embed=embed_var)
@@ -158,4 +158,4 @@ async def on_message(message):
 
 
 if __name__ == '__main__':
-    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.g3-RUo-YFgM55M8K9n6sm5Vnpvk')
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.s91d3SUeppij8jQm3fy8QGMoF1w')
