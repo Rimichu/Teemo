@@ -80,7 +80,6 @@ async def on_message(message):
                 msg = await message.channel.send(embed=embed_var)
                 await champ_react(msg,number)
                 embed_var = discord.Embed(title="Champions")
-                continue
             if ChampList[number][0] != Letters[alpha_counter]:
                 embed_var.add_field(name=Letters[alpha_counter], value=to_print)
                 to_print_arr.append(to_print)
@@ -159,4 +158,4 @@ async def on_message(message):
 
 
 if __name__ == '__main__':
-    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.f9i7ddp6vboZU6gu89QduSeDqrc')
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.g3-RUo-YFgM55M8K9n6sm5Vnpvk')
