@@ -126,6 +126,15 @@ async def on_message(message):
         embed_var.add_field(name='Commands', value=to_print)
         await message.channel.send(embed=embed_var)
 
+@client.event
+async def on_reaction_add(reaction, user):
+    if user == client.user:
+        return
+    if reaction.emoji == '⏩':
+        print('front')
+    elif reaction.emoji == '⏪':
+        print('back')
+
 
 if __name__ == '__main__':
-    client.run('TOKEN')
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.MpfmYnUcSJMKRa4rxvzZVUKU-CA')
