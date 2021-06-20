@@ -16,6 +16,32 @@ for Champion in Champions["data"]:
     ChampList.append(Champion)
     LowerChampList.append(Champion.lower())
 Letters = Commands["letters"]
+Champion_e = []
+
+
+def champ_embed_init():
+    embed_var = discord.Embed(title="Champions")
+    champn = [number for number in range(len(ChampList))]
+    alpha_counter = 0
+    to_print = ""
+    to_print_arr = []
+    for number in champn:
+        if (number % 18 == 0 or number == len(ChampList)) and number != 0:
+            embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+            to_print = ""
+            Champion_e.append(embed_var)
+            embed_var = discord.Embed(title="Champions")
+        if ChampList[number][0] != Letters[alpha_counter]:
+            embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+            to_print_arr.append(to_print)
+            to_print = ""
+            alpha_counter += 1
+        to_print += LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
+    embed_var.add_field(name=Letters[alpha_counter], value=to_print)
+    Champion_e.append(embed_var)
+
+
+champ_embed_init()
 
 
 def champion_data(champ_data, champ):
@@ -23,16 +49,16 @@ def champion_data(champ_data, champ):
     title = champ_data["title"]
     builds = LocalChampions["champions"][champ]["builds"]
     runes = LocalChampions["champions"][champ]["runes"]
-    embed_var = discord.Embed(title=name + " - " + title)
+    embed = discord.Embed(title=name + " - " + title)
     to_print = ""
     for build in builds:
         to_print += build + "\n"
-    embed_var.add_field(name="Builds", value=to_print)
+    embed.add_field(name="Builds", value=to_print)
     to_print = ""
     for rune in runes:
         to_print += rune + "\n"
-    embed_var.add_field(name="Runes", value=to_print)
-    return embed_var
+    embed.add_field(name="Runes", value=to_print)
+    return embed
 
 
 logger = logging.getLogger('discord')
@@ -67,27 +93,30 @@ async def on_message(message):
         champ = ChampList[champ]
         await message.channel.send(embed=champion_data(Champions["data"][champ], champ))
 
-    if message_content == 'champions' or message_content == 'c':
-        embed_var = discord.Embed(title='Champions')
-        champn = [number for number in range(len(ChampList))]
-        to_print = ""
-        alpha_counter = 0
-        for number in champn:
-            if ChampList[number][0] != Letters[alpha_counter]:
-                embed_var.add_field(name=Letters[alpha_counter], value=to_print)
-                to_print = ""
-                alpha_counter += 1
-            string = LocalChampions["champions"][ChampList[number]]["emoji"] + ":" + ChampList[number] + "\n"
-            to_print += string
-        msg = await message.channel.send(embed=embed_var)
-        for number in champn:
+    async def champ_embed():
+        number: int = len(ChampList) * -1
+        embed_var: object
+        for embed_var in Champion_e:
+            number += 18
+            msg = await message.channel.send(embed=embed_var)
+            if number > 0:
+                await champ_react(msg, len(ChampList))
+            else:
+                await champ_react(msg, number)
+
+    async def champ_react(msg, number):
+        await msg.add_reaction('⏪')
+        await msg.add_reaction('⏩')
+        for number in range(number - 18, number):
             try:
-                # remove this try statement when all champ emojis are available
                 await msg.add_reaction(LocalChampions["champions"][ChampList[number]]["emoji"])
             except discord.errors.Forbidden:
                 print('forbidden ' + ChampList[number])
             except:
-                pass
+                print("didn't work :/")
+
+    if message_content == 'champions' or message_content == 'c':
+        await champ_embed()
 
     if message_content == 'help' or message_content == 'h':
         embed_var = discord.Embed(title='Help')
@@ -97,6 +126,15 @@ async def on_message(message):
         embed_var.add_field(name='Commands', value=to_print)
         await message.channel.send(embed=embed_var)
 
+@client.event
+async def on_reaction_add(reaction, user):
+    if user == client.user:
+        return
+    if reaction.emoji == '⏩':
+        print('front')
+    elif reaction.emoji == '⏪':
+        print('back')
+
 
 if __name__ == '__main__':
-    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.v0vt-oWb78ZpjZJa2G3ULQxkm4o')
+    client.run('ODIyMDc0NjYwMTkwNjgzMTM2.YFM-sA.MpfmYnUcSJMKRa4rxvzZVUKU-CA')
